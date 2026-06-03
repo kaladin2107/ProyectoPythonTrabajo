@@ -5,4 +5,4 @@ print ("hola mundo 3")
 nombre = input("¿Cuál es tu nombre? ")
 print ("Hola " + nombre + ", bienvenido a Python!")
 
-
+print ("Adiós " + nombre + ", hasta luego!")
